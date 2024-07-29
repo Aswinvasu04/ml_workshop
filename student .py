@@ -3,4 +3,4 @@ print(student["name"])
 student["age"]=20
 student["grade"]="a"
 del student["age"]
-print(student["grade"])
+print(student["grade","course"])
